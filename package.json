@@ -1,7 +1,7 @@
 {
   "name": "combination-algorithm",
   "version": "1.0.0",
-  "description": "combination-algorithm includes string valadition, return Permutations of string given",
+  "description": "combination-algorithm has string valadition condition, return permutations of string given",
   "main": "solution.js",
   "repository": {
     "type": "git",
