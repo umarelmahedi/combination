@@ -1,0 +1,12 @@
+{
+  "name": "combination-algorithm",
+  "version": "1.0.0",
+  "description": "combination-algorithm includes string valadition, return Permutations of string given",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "umar elmahedi",
+  "license": "ISC"
+}
